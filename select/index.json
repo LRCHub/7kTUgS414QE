@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "NO LEASH - HONK THE HORN  【Official Music Video】",
+  "base_artist": "HONKTHEHORN",
+  "createdAt": "2026-03-28T12:13:36.529067Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "No Leash",
+      "artist": "Down to Nothing",
+      "has_synced": false,
+      "path": "select/01_No_Leash_Down_to_Nothing.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "No Leash",
+      "artist": "Scott & Brendo",
+      "has_synced": false,
+      "path": "select/02_No_Leash_Scott_&_Brendo.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NO LEASH",
+      "artist": "HONK THE HORN",
+      "has_synced": false,
+      "path": "select/pl_01_NO_LEASH_HONK_THE_HORN.txt"
+    }
+  ]
+}
